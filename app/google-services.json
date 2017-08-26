@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "328723737469",
+    "firebase_url": "https://hecm-0826.firebaseio.com",
+    "project_id": "hecm-0826",
+    "storage_bucket": "hecm-0826.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328723737469:android:d3ccf49d1c57949a",
+        "android_client_info": {
+          "package_name": "com.example.brensurio.homeenergymeter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328723737469-2djuh6bngju5dqm43d5l0l2vrso7841f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brensurio.homeenergymeter",
+            "certificate_hash": "65e011314cd530fafa21b1ff3ad065f4e9f4390e"
+          }
+        },
+        {
+          "client_id": "328723737469-ld3h5pfju58jstt5gu1a28lp8b21cgl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtcQS9G2x-iPF1RphplXWmU7ri0X3uBxs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328723737469-ld3h5pfju58jstt5gu1a28lp8b21cgl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

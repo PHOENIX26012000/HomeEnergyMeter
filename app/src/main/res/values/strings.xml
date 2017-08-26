@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">HomeEnergyMeter</string>
+    <!--Facebook SignIn Requirements-->
+    <string name="facebook_app_id">125842201389717</string>
+    <string name="fb_login_protocol_scheme">fb125842201389717</string>
+
+
 </resources>

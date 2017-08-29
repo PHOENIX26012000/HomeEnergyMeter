@@ -3,6 +3,14 @@
     <!--Facebook SignIn Requirements-->
     <string name="facebook_app_id">125842201389717</string>
     <string name="fb_login_protocol_scheme">fb125842201389717</string>
+    <!--Facebook SignIn Requirements-->
 
-
+    <!--Login Strings-->
+    <string name="string_loginactivity_email">Email</string>
+    <string name="string_loginactivity_password">Password</string>
+    <string name="string_loginactivity_login">Log In</string>
+    <string name="string_loginactivity_divider">Or</string>
+    <string name="string_loginactivity_facebook">Continue with Facebook</string>
+    <string name="string_loginactivity_google">Sign in with Google</string>
+    <!--Login Strings-->
 </resources>

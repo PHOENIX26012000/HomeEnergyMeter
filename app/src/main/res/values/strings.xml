@@ -13,4 +13,10 @@
     <string name="string_loginactivity_facebook">Continue with Facebook</string>
     <string name="string_loginactivity_google">Sign in with Google</string>
     <!--Login Strings-->
+
+    <!--Google Sign In Strings-->
+    <string name="server_client_id">328723737469-ld3h5pfju58jstt5gu1a28lp8b21cgl4.apps.googleusercontent.com</string>
+    <!--Google Sign In Strings-->
+
+
 </resources>
